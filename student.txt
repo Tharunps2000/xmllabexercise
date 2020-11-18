@@ -1,0 +1,19 @@
+[
+   {
+      "name": "THARUN",
+      "dept": "IT",
+      "rno": "6379390059"
+   },
+   {
+      "name": "RUMESH",
+      "dept": "IT",
+      "rno": "6382229532"
+   },
+   {
+      "name": "MAARAN",
+      "dept": "IT",
+      "rno": "9770920503"
+   }
+]
+
+

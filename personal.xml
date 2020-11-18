@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE STUDENTS SYSTEM "E:\XML1\personal.dtd">
+<STUDENTS>
+ <STUDENT>
+ <STUDENTDATA>
+    <NAME> RUMESH </NAME>
+    <ID>  18IT074</ID>
+    <AGE> 21 </AGE>
+    <ADDRESS> 14/1,Madurai </ADDRESS>
+  </STUDENTDATA>
+<STUDENTDATA>
+    <NAME> THARUN  </NAME>
+    <ID>  18IT106</ID>
+    <AGE> 21 </AGE>
+    <ADDRESS> 14/2,Madurai </ADDRESS>
+  </STUDENTDATA>
+</STUDENT>
+</STUDENTS>

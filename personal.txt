@@ -1,0 +1,18 @@
+{
+   "STUDENT": [
+      {
+         "NAME": "RUMESH",
+         "ID": "18IT074",
+         "AGE": "21",
+         "ADDRESS": "14/1,Madurai"
+      },
+      {
+         "NAME": "THARUN",
+         "ID": "18IT106",
+         "AGE": "21",
+         "ADDRESS": "14/2,Madurai"
+      }
+   ]
+}
+
+
